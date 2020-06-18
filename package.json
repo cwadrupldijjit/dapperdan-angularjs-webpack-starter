@@ -9,7 +9,7 @@
     "start": "npm run serve"
   },
   "dependencies": {
-    "angular": "^1.7.8"
+    "angular": "^1.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
